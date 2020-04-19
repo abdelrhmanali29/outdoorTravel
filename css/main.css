@@ -36,7 +36,6 @@ section {
   padding: 5rem 0;
 }
 
-
 /** start Header*/
 header {
   width: 100%;
@@ -137,7 +136,8 @@ nav {
   bottom: -3px;
   width: 100%;
   height: 4.7rem;
-  background: url("/img/wave-small.png") center no-repeat;
+  background: url("https://abdelrhmanali29.github.io/wave-small.png") center
+    no-repeat;
   background-size: cover;
 }
 
@@ -240,15 +240,16 @@ nav {
 }
 
 .star-gazing {
-  background: url(/img/stars.jpg) center no-repeat;
+  background: url(https://abdelrhmanali29.github.io/stars.jpg) center no-repeat;
 }
 
 .hiking {
-  background: url(/img/hiking.jpg) center no-repeat;
+  background: url(https://abdelrhmanali29.github.io/hiking.jpg) center no-repeat;
 }
 
 .camping {
-  background: url(/img/camping.jpg) center no-repeat;
+  background: url(https://abdelrhmanali29.github.io/camping.jpg) center
+    no-repeat;
 }
 
 .activities-grid-item i {
@@ -275,7 +276,8 @@ nav {
       rgba(49, 24, 131, 0.9) 0%,
       rgba(72, 56, 149, 0.8) 100%
     ),
-    url("/img/testimonials-bg.jpg") center no-repeat fixed;
+    url("https://abdelrhmanali29.github.io/testimonials-bg.jpg") center
+      no-repeat fixed;
   background-size: cover;
   position: relative;
 }
@@ -286,7 +288,8 @@ nav {
   left: 0;
   width: 100%;
   height: 4.7rem;
-  background: url(/img/wave-small-reversed.png) center no-repeat;
+  background: url(https://abdelrhmanali29.github.io/wave-small-reversed.png)
+    center no-repeat;
   background-size: cover;
 }
 
@@ -363,13 +366,13 @@ footer {
 @media screen and (min-width: 470px) {
   .hero::before {
     height: 9.4rem;
-    background: url(/img/wave-medium.png);
+    background: url(https://abdelrhmanali29.github.io/wave-medium.png);
     background-size: cover;
   }
 
   .testimonials::before {
     height: 9.4rem;
-    background: url(/img/wave-medium-reversed.png);
+    background: url(https://abdelrhmanali29.github.io/wave-medium-reversed.png);
     background-size: cover;
   }
 }
@@ -447,13 +450,13 @@ footer {
 @media screen and (min-width: 950px) {
   .hero::before {
     height: 22.7rem;
-    background: url(/img/wave-large.png);
+    background: url(https://abdelrhmanali29.github.io/wave-large.png);
     background-size: cover;
   }
 
   .testimonials::before {
     height: 22.7rem;
-    background: url(/img/wave-large-reversed.png);
+    background: url(https://abdelrhmanali29.github.io/wave-large-reversed.png);
     background-size: cover;
   }
 }
